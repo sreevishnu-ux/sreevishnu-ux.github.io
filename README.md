@@ -1,5 +1,5 @@
 # sreevishnu-ux.github.io
-My portfolio website built using HTML/CSS and a bit og JS
+My portfolio website built using HTML/CSS and a bit of JS
 
 
 
